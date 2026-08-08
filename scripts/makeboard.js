@@ -45,7 +45,7 @@ function submitForm() {
       location.href = choice + '.html';
     });
   } else if (choice == 'Buy & Sell') {
-    choice = 'buySell';
+    choice = 'buysell';
     choicezz = 'Buy & Sell';
     var thread = db.collection("threads");
 
