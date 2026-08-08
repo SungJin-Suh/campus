@@ -6,6 +6,30 @@ As a stressed-out student navigating the demanding workload at BCIT, I want an a
 
 **"campUS"** is a one-stop-shop for essential resources and where you can communicate with your BCIT peers anonymously. How much laugh and support you can get out of "campUS" is completely up to you!
 
+![campUS home screen with the four community boards](images/screenshots/screenshot1.png)
+
+*The hub after sign-in — shortcuts to BCIT services and the four community boards.*
+
+## Screens
+
+![A board listing its threads](images/screenshots/screenshot2.png)
+
+*Each board lists its threads with timestamps and running like and dislike counts.*
+
+---
+
+![A thread with its replies](images/screenshots/screenshot3.png)
+
+*Threads open into the full post, a reply box, and every reply — all posted anonymously.*
+
+---
+
+![The profile page](images/screenshots/screenshot4.png)
+
+*Your profile gathers the threads you wrote and the ones you starred.*
+
+---
+
 ## Features
 
 - **Email/password authentication** via FirebaseUI, with automatic user-profile
