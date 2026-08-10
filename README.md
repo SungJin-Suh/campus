@@ -4,7 +4,7 @@ As a stressed-out student navigating the demanding workload at BCIT, I want an a
 
 **"campUS"** is a one-stop-shop for essential resources and where you can communicate with your BCIT peers anonymously. How much laugh and support you can get out of "campUS" is completely up to you!
 
-**▶ [Live demo](https://sungjin-suh.github.io/campus/)** — sign up with any email to look around 😃.
+**▶ [Live demo](https://campus-portfolio-ecdcc.web.app/)** — sign up with any email to look around 😃.
 
 ![campUS home screen with the four community boards](images/screenshots/screenshot1.png)
 
